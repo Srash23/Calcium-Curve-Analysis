@@ -77,5 +77,5 @@ Total data points: **28,940** across **522 cell tracks**
 - Framework adaptable to other time-series cell signaling datasets
 
 
-## 📄 License
+## License
 This project is open-sourced under the MIT License.
