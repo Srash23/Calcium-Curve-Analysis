@@ -71,24 +71,24 @@ Below are key outputs from the analysis pipeline that capture calcium signaling 
 
 ### 1. Single-Cell Calcium Curve
 This plot shows the characteristic intensity spike during calcium influx in a representative T cell.
-![Calcium Curve]<img width="581" alt="Screenshot 2025-04-20 at 8 51 34 PM" src="https://github.com/user-attachments/assets/91e061f1-382a-4485-a96a-7788c9fb3d3d" />
+<img width="581" alt="Screenshot 2025-04-20 at 8 51 34 PM" src="https://github.com/user-attachments/assets/91e061f1-382a-4485-a96a-7788c9fb3d3d" />
 
 ### 2. Activated T Cells
 Time-series traces from a subset of 50 activated cells, with red peaks marking the activation event (derivative threshold >10).
-![Activated Cells]<img width="905" alt="Screenshot 2025-04-20 at 8 51 57 PM" src="https://github.com/user-attachments/assets/fd695c58-b207-4f65-b9ac-c5d8486e7785" />
+<img width="905" alt="Screenshot 2025-04-20 at 8 51 57 PM" src="https://github.com/user-attachments/assets/fd695c58-b207-4f65-b9ac-c5d8486e7785" />
 
 ### 3. Deactivated T Cells
 Representative curves from 50 non-responsive cells showing no significant calcium influx.
-![Deactivated Cells]<img width="905" alt="Screenshot 2025-04-20 at 8 52 12 PM 1" src="https://github.com/user-attachments/assets/10b09ae7-3145-4d52-94bb-10c4000dbf53" />
+<img width="905" alt="Screenshot 2025-04-20 at 8 52 12 PM 1" src="https://github.com/user-attachments/assets/10b09ae7-3145-4d52-94bb-10c4000dbf53" />
 
 ### 4. Mean Intensity Across All Cells
 Aggregate view of calcium activity across the full cell population (n = 522), including both responders and non-responders.
-![Average Intensity All]<img width="563" alt="Screenshot 2025-04-20 at 8 52 36 PM" src="https://github.com/user-attachments/assets/feb62cc2-e31c-4804-a017-54a24ad74370" />
+<img width="563" alt="Screenshot 2025-04-20 at 8 52 36 PM" src="https://github.com/user-attachments/assets/feb62cc2-e31c-4804-a017-54a24ad74370" />
 
 
 ### 5. Post-Onset Intensity in Activated Cells
 Average calcium intensity over time in the subset of activated cells (n ≈ 265), realigned to the point of activation.
-![Activated Avg Intensity]<img width="576" alt="Screenshot 2025-04-20 at 8 52 52 PM" src="https://github.com/user-attachments/assets/7db57e36-edab-494b-a337-7d994ba70058" />
+<img width="576" alt="Screenshot 2025-04-20 at 8 52 52 PM" src="https://github.com/user-attachments/assets/7db57e36-edab-494b-a337-7d994ba70058" />
 
 
 ## Insights & Applications
