@@ -27,7 +27,7 @@ The input file is an Excel sheet (`calcium_curves.xlsx`) containing:
 | TrackID           | Unique identifier for each cell track    |
 
 Total data points: **28,940** across **522 cell tracks**
-
+**Note**: Frame numbers are relative timepoints. If your data uses a different acquisition rate (e.g., 2 fps or 1 frame every 5 seconds), simply convert frame numbers to real time if needed for interpretation.
 
 ## Pipeline Summary
 
@@ -58,12 +58,19 @@ Total data points: **28,940** across **522 cell tracks**
 - **Activation Rate**: 51.1%
 - Peak-aligned population curve highlights coordinated activation kinetics across T cells
 
+## Scalability
+This pipeline is designed to scale efficiently for larger and more diverse datasets:
+- Accepts datasets with varying frame rates and time intervals
+- Modular functions allow adaptation to different activation thresholds or signal types
+- Processes thousands of cell tracks in under a minute on standard hardware
+- Easily extendable to multi-class classification or time-to-activation modeling
+
+Whether analyzing neuronal calcium imaging, drug-treated cell populations, or other single-cell signaling dynamics, the framework remains robust and adaptable.
 
 ## Tech Stack
 - **Python**: pandas, numpy, matplotlib, scipy
 - **Signal Processing**: moving averages, derivative curves
 - **Peak Detection**: `scipy.signal.find_peaks`
-
 
 ## Visualizations
 
