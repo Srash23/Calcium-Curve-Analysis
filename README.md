@@ -71,14 +71,6 @@ Total data points: **28,940** across **522 cell tracks**
 - Time-aligned calcium intensity with error bands
 
 
-## How to Run
-```bash
-# Clone this repo
-$ git clone https://github.com/your-username/calcium-tcell-analysis.git
-
-# Open Jupyter or your IDE and run the main notebook
-```
-
 ## Insights & Applications
 - Enables quantification of T cell heterogeneity in calcium signaling
 - Provides baseline for comparing response under different treatments
