@@ -90,6 +90,7 @@ Representative curves from 50 non-responsive cells showing no significant calciu
 
 ### 4. Mean Intensity Across All Cells
 Aggregate view of calcium activity across the full cell population (n = 522), including both responders and non-responders.
+
 <img width="563" alt="Screenshot 2025-04-20 at 8 52 36 PM" src="https://github.com/user-attachments/assets/feb62cc2-e31c-4804-a017-54a24ad74370" />
 
 
